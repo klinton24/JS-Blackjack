@@ -1,0 +1,33 @@
+body {
+    background-color: #008000;
+}
+
+h1 {
+    background-color: white;
+    border: 5px solid black;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+h4 {
+    background-color: white;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    margin: auto;
+}
+
+#text-area {
+    background-color: white;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    margin: auto;
+}
+
+#recenter {
+    width: 223px;
+}
